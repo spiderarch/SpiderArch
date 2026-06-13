@@ -44,3 +44,13 @@ Explore additional Ollama models.
 Learn how model size affects performance.
 Install a graphical interface such as Open WebUI.
 Continue learning self-hosted AI concepts.
+
+day 3 continued
+while attemtpting to get webui running to give ollama a more chatgpt like experience I had to give me user permission to use docker which needed a reboot.
+while rebooting startplasma-wayland was not working. I tried it multiple times and attempted to troubleshoot on my own. After consulting with chatgpt I decided to just run the command again and it for some reason just decided to work.
+I now have webui installed and localhost web server running. Ollama is definitely behind on its intelligence or its ability to give the illusion of intelligence. I mentioned being disconnected from the internet to me and I had to inform it that it was infact connected to the internet. It responded by saying I thought so!
+Apon initial boot up of open webui I am very impressed with how similar to chatgpt it looks.
+Open webui is unable to connect with ollama. This is not as straight forward as I thought it would be. But I guess nothing with Arch is. 
+After much troubleshooting i got it working.
+I once again disconnected from the internet and asked it a question about an anime and it sort of knew what I was talking about. It got some info right and made up the rest.
+
